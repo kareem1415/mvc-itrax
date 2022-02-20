@@ -1,0 +1,13 @@
+{
+  "name" : "itrax/freamwork",
+  "description": "itrax freamwork",
+  "license": "MIT",
+  "require": {
+    "php": "8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "itrax\\": "app"
+    }
+  }
+}
